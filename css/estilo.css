@@ -14,10 +14,9 @@ body {
  
 .home {
     color: aliceblue;
-    text-align: center;
+    text-align:end
 }
- 
- 
 .menu a {
     color: aliceblue;
+   
 }
