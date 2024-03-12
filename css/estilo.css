@@ -1,26 +1,23 @@
 body {
     background-color: rgb(179, 179, 179);
 }
-
+ 
 .topo {
     background-color: rgb(53, 53, 53);
     color: aliceblue;
-    
+   
 }
-
+ 
 .logo {
     color: aliceblue;
 }
-
+ 
 .home {
     color: aliceblue;
     text-align: center;
 }
-
-.menu {
-
-}
-
+ 
+ 
 .menu a {
     color: aliceblue;
 }
